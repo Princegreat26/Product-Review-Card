@@ -1,0 +1,91 @@
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+
+div{
+    border: 1px solid whitesmoke;
+    background-color: white;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    width: 25%;
+    height: 420px;
+    position: relative;
+    left: 50%;
+    top: 110px;
+}
+#First{
+    font-family: 'Fraunces', serif;
+    font-size: 34px;
+    font-weight: 700;
+    position: relative;
+    bottom: 430px;
+    left: 15%;
+}
+
+#Second{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    position: relative;
+    bottom: 450px;
+    left: 15%;
+    color: hsl(228, 12%, 48%);
+}
+
+h1{
+    color: hsl(158, 36%, 37%);
+    font-weight: 700;
+    font-family: 'Fraunces', serif;
+    position: relative;
+    left: 15%;
+    bottom: 445px;
+}
+img{
+    width: 85%;
+    height: 420px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    position: relative;
+    left: -80%;
+    bottom: 0px;
+    border: 2px;
+}
+
+#Third{
+    font-family: 'Fraunces', serif;
+    position: relative;
+    left: 50%;
+    color: hsl(228, 12%, 48%);
+    bottom: 495px;
+}
+
+#Fourth{
+    border: 2px solid hsl(158, 36%, 37%);
+    background-color: hsl(158, 36%, 37%);
+    text-align: center;
+    border-radius: 8px;
+    font-size: 14px;
+    position: relative;
+    bottom: 480px;
+    color: white;
+    /* display: inline; */
+    padding-bottom: 5%;
+    width: 70%;
+    left: 13%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+pre{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    position: relative;
+    bottom: 410px;
+    left: 15%;
+    color: hsl(228, 12%, 48%);
+}
+svg{
+    position: relative;
+    right: 47%;
+    top: 02px;
+}
